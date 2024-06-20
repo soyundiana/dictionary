@@ -8,14 +8,14 @@ export default function App() {
         <header className="App-header">
         </header>
         <main>
-          <Dictionary defaultKeyword="hello" />
+          <Dictionary defaultKeyword="dictionary" />
         </main>
         <footer className="App-footer">
           This project was coded by
             <a href="https://github.com/soyundiana/" target="_blank"
               > Diana :-) 
-            </a>
-             and is 
+             </a>
+              and is 
             <a
               href="https://github.com/soyundiana/travel-project"
               target="_blank"
